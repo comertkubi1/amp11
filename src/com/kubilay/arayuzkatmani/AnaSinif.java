@@ -13,7 +13,7 @@ public class AnaSinif {
 
        Parametre p=new Parametre();
         p.topla2(100,100,"ali");
-      //  KlavyedenBilgi kb=new KlavyedenBilgi();
+       KlavyedenBilgi kb=new KlavyedenBilgi();
        // kb.klavyedenoku();
        //  System.out.println("Dikdörtgenin alani= "+kb.soru3());
 
